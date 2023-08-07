@@ -1,0 +1,9 @@
+print("rthtryh")
+c=2
+d=8
+print(c+d)
+a='r'
+b='f'
+print(a+b)
+print(type(d))
+print(type(b))
